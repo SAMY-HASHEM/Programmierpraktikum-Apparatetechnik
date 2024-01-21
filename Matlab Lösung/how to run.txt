@@ -1,0 +1,23 @@
+Hello Benutzer,
+Bitte Run sie file belastung, davor load matlab Datei files von alle files 1,1,1 ODER 2,2,2 zusammen. 
+
+
+Hier sind alle in Buchstaben geschriebenen Variablen im Programm definiert und werden in dieser Datei unten erneut erklärt.
+M   ist Moment 
+pa  ist Aussendruck
+pi  ist Innendruck
+Die folgenden drei Variablen sind zur Verwendung in der Aktivierung und Organisation des Codes vorgesehen und sind nicht als Benutzerwerte definiert:
+Kreise = 1   Kreise scheibe 
+Kreise = 2  Kreise plate 
+Kreise = 3  Kreise ringing
+e    ist  Wanddicke;
+ra   ist  Aussenradius;
+ri   ist  Innenradius;
+v    ist  ein konstant fur ein gleichung 
+E    ist  Elastizitaetsmodul;
+v   ist  Werkstoff.Querkontraktionszahl;
+K    ist  Festigkeitskennwert;
+S =  ist  Sicherheitsbeiwert;
+sigma_v ist   Schubspannungshypothese koffezient 
+B    ist  Biegesteifigkeit
+w    ist  Durchbiegung
